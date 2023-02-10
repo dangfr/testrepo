@@ -1,0 +1,4 @@
+i
+This is a test of github:w
+:q
+
